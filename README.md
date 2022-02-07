@@ -7,4 +7,4 @@ React Native carousel animation Using Animated.FlatList/and animated API
 - ANIMATED API
 
 DEMO:
-![alt text](https://github.com/soufianfallah/NFT-APP-UI-expo-react-native-carousel-animation/blob/main/assets/nft.gif =250x250)
+![alt text](https://github.com/soufianfallah/NFT-APP-UI-expo-react-native-carousel-animation/blob/main/assets/nft.gif {width=40px height=400px})
