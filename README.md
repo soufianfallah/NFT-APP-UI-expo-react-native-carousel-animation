@@ -5,6 +5,7 @@
 
 >Stack
 - JS
+- yarn
 - EXPO
 - REACT-NATIVE                                 
 - ANIMATED API
