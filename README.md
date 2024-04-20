@@ -4,9 +4,9 @@
 <img src="https://github.com/soufianfallah/NFT-APP-UI-expo-react-native-carousel-animation/blob/main/assets/nft.gif" width="260">
 
 >Stack
-- JS
+- REACT-NATIVE 
+- JS /typescript
 - yarn
-- EXPO
-- REACT-NATIVE                                 
+- EXPO                               
 - ANIMATED API
 
